@@ -20,7 +20,6 @@ Aplikacja backendowa służąca do zarządzania budżetem osobistym, napisana w 
 1. Sklonuj repozytorium na swój dysk.
 2. W głównym katalogu projektu wykonaj polecenie:
    ./gradlew bootRun
-   (W systemie Windows użyj komendy: gradlew bootRun)
 
 ## Dane testowe na start
 Aplikacja posiada wbudowany moduł automatycznej inicjalizacji danych (DatabaseInitializer). Przy pierwszym uruchomieniu pusta baza zostanie automatycznie zasilona przykładowymi kontami i transakcjami, co umożliwia natychmiastowe testowanie bez konieczności ręcznego wprowadzania danych.
